@@ -1,0 +1,6 @@
+Coquelicot --> #F15025
+Maximum Green --> #548C2F
+Space Cadet --> #273043
+Tea Green --> #CFFFB3
+Raising Black --> #1A181B
+Baby Powder --> #FFFFFA
